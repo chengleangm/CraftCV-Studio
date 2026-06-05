@@ -9,7 +9,9 @@ export default function Navbar() {
           <span className="inline-flex h-9 w-9 items-center justify-center rounded-[8px] bg-slate-950 text-white">
             <FileText className="h-4 w-4" />
           </span>
-          <span className="text-base font-black text-slate-950">CraftCV Studio</span>
+          <span className="max-w-[165px] truncate text-sm font-black text-slate-950 sm:max-w-none sm:text-base">
+            Only for HORN CHHUYHAUN
+          </span>
         </Link>
 
         <nav className="hidden items-center gap-2 md:flex">
@@ -37,7 +39,7 @@ export default function Navbar() {
             className="inline-flex items-center gap-2 rounded-[8px] bg-slate-950 px-3 py-2 text-sm font-bold text-white shadow-lg shadow-slate-950/20 transition hover:bg-slate-800"
           >
             <PenLine className="h-4 w-4" />
-            Build CV
+            <span className="hidden sm:inline">Build CV</span>
           </Link>
         </div>
       </div>

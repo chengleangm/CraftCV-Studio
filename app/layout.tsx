@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CraftCV Studio",
-  description: "A SaaS-style CV builder with live previews, professional templates, autosave, and A4 PDF export.",
+  title: "Only for HORN CHHUYHAUN",
+  description: "A personalized CV builder for HORN CHHUYHAUN with live previews, professional templates, autosave, and A4 PDF export.",
 };
 
 export default function RootLayout({

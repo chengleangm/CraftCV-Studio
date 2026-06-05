@@ -18,7 +18,7 @@ export default function Hero() {
             Build a polished CV without fighting the layout.
           </h1>
           <p className="mt-5 max-w-2xl text-lg leading-relaxed text-slate-600">
-            CraftCV Studio combines a structured editor, instant template switching, photo upload, and precise PDF export in a clean SaaS workspace.
+            Only for HORN CHHUYHAUN combines a structured editor, instant template switching, photo upload, and precise PDF export in a clean SaaS workspace.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link
